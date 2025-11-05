@@ -18,7 +18,7 @@ Netflix hosts thousands of titles worldwide, creating challenges in understandin
 The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
-- 
+
 ## Five Key Steps:
 
 1. Data Collection:
