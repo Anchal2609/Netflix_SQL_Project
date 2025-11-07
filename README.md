@@ -3,7 +3,7 @@
 ![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
 ## Problem Statement 
-Netflix hosts thousands of titles worldwide, creating challenges in understanding content trends, regional production, and audience suitability. This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+Netflix has thousands of shows and movies from around the world, which makes it hard to understand what kind of content is trending, which regions produce what type of shows, and which content is best suited for different audiences. This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
 
 
 ## Objectives
